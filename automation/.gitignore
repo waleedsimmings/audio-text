@@ -1,0 +1,15 @@
+.env
+processed_recordings.json
+processed_teams_transcripts.json
+processed_stream_transcripts.json
+tmp/
+local_transcripts/
+local_transcripts_stream/
+
+# Certificate files (keep secure, never commit)
+*.pem
+*.pfx
+*.cer
+sp_private.pem
+sp_cert.cer
+sp_combined.pem
